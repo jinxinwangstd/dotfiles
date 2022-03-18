@@ -1,0 +1,6 @@
+URxvt*background: [90]#000000
+URxvt*depth: 32
+URxvt*foreground: #FFFFFF
+
+URxvt*font: xft:Ubuntu Mono:pixelsize=32:antialias=true
+URxvt*letterSpace: -1
